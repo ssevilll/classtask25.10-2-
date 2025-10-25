@@ -1,0 +1,35 @@
+﻿namespace ConsoleApp2.classes
+{
+    internal class Student
+    {
+        public string Name;
+        public string Surname;
+        public int Age;
+        public double GPA;
+
+        public Student(string name, string surname, int age, double gpa)
+        {
+            Name = name;
+            Surname = surname;
+            Age = age;
+            GPA = gpa;
+        }
+
+        public Student()
+        {
+            Name = Name;
+            Surname = Surname;
+        }
+
+        public static void Details(Student student)
+        {
+            Console.WriteLine($"Name: {student.Name}, Surname: {student.Surname}, Age: {student.Age}, GPA: {student.GPA}");
+        }
+
+        public static double UpdateGPA(Student student, double newGPA)
+        {
+            student.GPA = newGPA;
+            return student.GPA;
+        }
+    }
+}
