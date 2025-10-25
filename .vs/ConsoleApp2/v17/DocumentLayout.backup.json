@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -44,7 +40,7 @@
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
               "ToolTip": "C:\\Users\\sevilsb\\Desktop\\ConsoleApp2\\ConsoleApp2\\Program.cs*",
               "RelativeToolTip": "ConsoleApp2\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAUwEgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEEAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T07:33:59.157Z",
               "EditorCaption": ""
@@ -57,7 +53,7 @@
               "RelativeDocumentMoniker": "ConsoleApp2\\classes\\Student.cs",
               "ToolTip": "C:\\Users\\sevilsb\\Desktop\\ConsoleApp2\\ConsoleApp2\\classes\\Student.cs",
               "RelativeToolTip": "ConsoleApp2\\classes\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T07:34:30.912Z",
               "EditorCaption": ""
@@ -70,7 +66,7 @@
               "RelativeDocumentMoniker": "ConsoleApp2\\classes\\GraduateStudent.cs",
               "ToolTip": "C:\\Users\\sevilsb\\Desktop\\ConsoleApp2\\ConsoleApp2\\classes\\GraduateStudent.cs",
               "RelativeToolTip": "ConsoleApp2\\classes\\GraduateStudent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAACEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T07:37:08.997Z",
               "EditorCaption": ""

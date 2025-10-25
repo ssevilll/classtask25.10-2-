@@ -14,6 +14,8 @@
             ThesisTitle = ThesisTitle;
         }
 
+
+
         public static void GraduateDetails(GraduateStudent gradStudent)
         {
             Console.WriteLine($"Name: {gradStudent.Name}, Surname: {gradStudent.Surname}, Age: {gradStudent.Age}, GPA: {gradStudent.GPA}, Thesis Title: {gradStudent.ThesisTitle}");

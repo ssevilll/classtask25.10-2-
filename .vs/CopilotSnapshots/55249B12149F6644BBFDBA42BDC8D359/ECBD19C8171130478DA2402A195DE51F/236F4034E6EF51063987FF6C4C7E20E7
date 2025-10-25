@@ -21,10 +21,10 @@
             Surname = Surname;
         }
 
-        public double UpdateGPA(double newGPA)
+        public static double UpdateGPA(Student student, double newGPA)
         {
-            GPA = newGPA;
-            return GPA;
+            student.GPA = newGPA;
+            return student.GPA;
         }
 
         public static void Details(Student student)
